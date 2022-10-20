@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+h3{
+    margin-right: 10%;
+    text-align: right;
+}
+
+article{
+    margin: 40px 10%;
+}
+
+h2{
+    text-shadow : 2px 2px #b3b7b3; 
+    margin: 40px 20px;
+}
+
+.sample{
+    display: block;
+    position: relative;
+    background-color: rgba(186, 184, 234, 0.8);
+    font-family: Arial;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 10px white;
+    margin-bottom: 100px;
+}
+
+p.e{
+    margin: 10px 20px;
+}
+
+div{
+    border-radius: 20px;
+    margin: 20px 0px;
+    padding: 10px 20px;
+}
+
+.code{
+    background-color: #bdc0bd;
+    margin: 20px 0px;
+    padding: 10px 20px;
+}
+
+.html{
+    margin-bottom: 20px;
+}
+
+.table{
+    margin-left: 20px;
+}
+
+.exe{
+    background-color: rgba(255, 143, 143, 0.5);
+}
+
+.explain{
+    color: #000000;
+}
+
+h1{
+    padding: 20px;
+}
+
+p, img{
+    margin: 20px 0;
+}
+
+.img{
+    text-align: center;
+    display: inline-block;
+}
